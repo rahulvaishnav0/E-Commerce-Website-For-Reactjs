@@ -1,0 +1,16 @@
+.about-img{
+    width: 400px;
+    height: 400px;
+}
+.item{
+    gap: 50px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 16px;
+}
+
+@media (max-width:998px) {
+    .clothes-box{
+        margin: 0px 10px;
+    }
+}

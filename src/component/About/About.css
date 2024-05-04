@@ -1,0 +1,26 @@
+.about-img{
+    width: 400px;
+    height: 400px;
+}
+.item{
+    gap: 50px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 16px;
+}
+@media (max-width:900px){
+    .about{
+        height: 70vh;
+        /* margin-top: -172px; */
+        margin: auto;
+        margin-left: 10px;
+        margin-right: 10px;
+
+        
+    }
+    .about h2{
+        margin-bottom: 20px;
+    }
+    
+    
+}
